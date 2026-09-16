@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti "URL_GAMBAR_RAW" di bawah dengan link raw dari gambar landscape kamu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&fontAlign=50&desc=Software%20Engineering%20Student%20|%20Web%20Developer&descSize=20&descAlignY=55&descAlign=50&color=00000000&bgImg=URL_GAMBAR_RAW" width="100%" />
+  <img src="blob:https://www.image2url.com/48a4940f-ebb9-4d2e-8986-90dd76c20e19" width="100%" />
 </div>
 
 <p align="center">
