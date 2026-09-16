@@ -16,25 +16,25 @@
   <img src="https://cdn.phototourl.com/free/2026-09-16-42cb4b39-97c5-4ec9-83f3-5a0803bf690c.png" width="150" alt="Raul's Photo" />
 </p>
 
-- 👋 Halo! Saya **Muhammad Raul Zia Parsa**, siswa kelas 11 Rekayasa Perangkat Lunak (RPL) di SMKN 2 Tanjung Selor, Kalimantan Utara.
-- 💻 Saya sangat antusias dengan **Web Development** (*Frontend* & *Backend*) dan suka membangun pengalaman digital yang modern, responsif, dan fungsional.
-- 🚀 Perjalanan ngoding saya dimulai dari dasar web (HTML/CSS/JS), dan kini rutin mengeksplorasi ekosistem seperti **React, Next.js, Vue.js, Laravel**, hingga **Python**.
-- 🎮 Di luar *coding*, saya punya rutinitas *gym*, menikmati musik pop/indie, dan suka kompetisi *game* (Free Fire, Mobile Legends, hingga judul AAA) yang melatih *teamwork* serta fokus saya.
-- 🎯 Pengalaman menjuarai LKS Web Technology semakin memotivasi saya untuk terus mengasah *skill problem-solving* menuju impian menjadi *Software Engineer* profesional.
-- 🌐 **Portfolio**: Lihat karya dan proyek saya selengkapnya di **[Web Portfolio Saya](https://raullcintabutterscotch.vercel.app/)**.
-- 📫 Hubungi saya via email: **raulparsa126@gmail.com**
+- 👋 Hello! I'm **Muhammad Raul Zia Parsa**, a Grade 11 Software Engineering student at SMK Negeri 2 Tanjung Selor, North Kalimantan, Indonesia.
+- 💻 I am highly passionate about **Web Development** (Frontend & Backend) and enjoy building modern, responsive, and functional digital experiences.
+- 🚀 My programming journey started with web fundamentals (HTML, CSS, JS), and I now regularly explore frameworks and ecosystems like **React, Next.js, Vue.js, Laravel**, and **Python**.
+- 🎮 Outside of coding, I maintain a *gym* routine, listen to pop and indie music, and enjoy competitive gaming (from Free Fire and Mobile Legends to AAA titles), which has taught me a lot about teamwork and focus.
+- 🎯 Winning 1st Place in the LKS Web Technology competition has further motivated me to keep improving my problem-solving skills and work toward becoming a professional Software Engineer.
+- 🌐 **Portfolio**: Check out my full projects and works on **[My Web Portfolio](https://raullcintabutterscotch.vercel.app/)**.
+- 📫 Reach out to me via email: **raulparsa126@gmail.com**
 
 ---
 
 ### 🚀 Recent Projects & Experience
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="150" alt="Projects GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="300" alt="Projects GIF" />
 </p>
 
-- 🏆 **Juara 1 LKS Web Technology**: Provinsi Kalimantan Utara & Finalis Nasional Web Technology.
-- ⚽ **Matchboard**: Mengembangkan aplikasi web *tactical football whiteboard*.
-- 🎵 **Spotify Clone**: Membangun *web music player* menggunakan React, Tailwind CSS, dan Spotify Web API (PKCE Auth).
+- 🏆 **1st Place LKS Web Technology**: North Kalimantan Province & National Web Technology Finalist.
+- ⚽ **Matchboard**: Developed a tactical football whiteboard web application.
+- 🎵 **Spotify Clone**: Built a web music player using React, Tailwind CSS, and the Spotify Web API (PKCE Auth).
 
 ---
 
