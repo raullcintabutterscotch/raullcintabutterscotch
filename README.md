@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
 <h3 align="center">Software Engineering Student | Web Developer</h3>
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-09-16-6549c1f3-0190-4cd0-85da-3f3ffe928355.jpg" width="150" alt="About Me GIF" />
+  <img src="https://cdn.phototourl.com/free/2026-09-16-6549c1f3-0190-4cd0-85da-3f3ffe928355.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Raul's Photo" />
 </p>
 
 - 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
@@ -39,8 +39,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,php,laravel,mysql,python,c,jquery,blender,canva&perline=8" />
@@ -52,10 +50,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="URL_GIF_STATS_DISINI" width="150" alt="Stats GIF" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raullcintabutterscotch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Raul's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raullcintabutterscotch&theme=tokyonight&hide_border=true&background=0D1117" alt="Raul's GitHub Streak" width="48%" />
 </p>
@@ -64,10 +58,6 @@
 
 ### 👾 Contribution Graph
 
-<p align="center">
-  <img src="URL_GIF_CONTRIBUTION_DISINI" width="150" alt="Contribution GIF" />
-</p>
-
 <div align="center">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raullcintabutterscotch/raullcintabutterscotch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%" />
 </div>
@@ -75,10 +65,6 @@
 ---
 
 ### 🤝 Connect with Me
-
-<p align="center">
-  <img src="URL_GIF_CONNECT_DISINI" width="150" alt="Connect GIF" />
-</p>
 
 <div align="center">
   <a href="https://www.instagram.com/raull752/" target="_blank">
