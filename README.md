@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="URL_GIF_ABOUT_ME_DISINI" width="150" alt="About Me GIF" />
+  <img src="https://cdn.phototourl.com/free/2026-09-16-dc0a9a46-3a33-403b-a89a-a632f1cb70d9.jpg" width="150" alt="About Me GIF" />
 </p>
 
 - 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
