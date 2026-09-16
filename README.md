@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti "URL_GAMBAR_RAW" di bawah dengan link raw dari gambar landscape kamu -->
-  <img src="blob:https://www.image2url.com/48a4940f-ebb9-4d2e-8986-90dd76c20e19" width="100%" />
+  <img src="file:///D:/download/whatsapp-image-2026-09-16-at-10-36-48-1.avif" width="100%" />
 </div>
 
 <p align="center">
