@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=50&animation=twinkling" width="100%" />
 </div>
 
 <h3 align="center">Software Engineering Student | Web Developer</h3>
@@ -12,6 +12,10 @@
 
 ### 👨‍💻 About Me
 
+<p align="center">
+  <img src="URL_GIF_ABOUT_ME_DISINI" width="150" alt="About Me GIF" />
+</p>
+
 - 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
 - 💻 Saat ini sering ngoding menggunakan **React, Laravel, dan Python**.
 - 🏋️‍♂️ Di luar coding, saya punya rutinitas *gym split* dan menikmati game seperti Mobile Legends hingga judul AAA.
@@ -20,7 +24,24 @@
 
 ---
 
+### 🚀 Recent Projects & Experience
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="150" alt="Projects GIF" />
+</p>
+
+- ⚽ **Matchboard**: Mengembangkan aplikasi web *tactical football whiteboard*.
+- 🎵 **Spotify Clone**: Membangun *web music player* menggunakan React, Tailwind CSS, dan Spotify Web API (PKCE Auth).
+- 🏆 **LKS Web Technology**: Mendalami integrasi Bootstrap, PHP, Laravel, jQuery, dan MySQL.
+- 🤖 **Polri AI Sahabat Masyarakat**: Terlibat dalam perancangan skenario *script* dan konsep visual.
+
+---
+
 ### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlycjlyaGF6OWNxMXd5cmtkYzRucjg3YnFsYjhnOG10OW1yZWQ2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="150" alt="Tech Stack GIF" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,6 +54,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="URL_GIF_STATS_DISINI" width="150" alt="Stats GIF" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raullcintabutterscotch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Raul's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raullcintabutterscotch&theme=tokyonight&hide_border=true&background=0D1117" alt="Raul's GitHub Streak" width="48%" />
 </p>
@@ -41,6 +66,10 @@
 
 ### 👾 Contribution Graph
 
+<p align="center">
+  <img src="URL_GIF_CONTRIBUTION_DISINI" width="150" alt="Contribution GIF" />
+</p>
+
 <div align="center">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raullcintabutterscotch/raullcintabutterscotch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%" />
 </div>
@@ -48,6 +77,10 @@
 ---
 
 ### 🤝 Connect with Me
+
+<p align="center">
+  <img src="URL_GIF_CONNECT_DISINI" width="150" alt="Connect GIF" />
+</p>
 
 <div align="center">
   <a href="https://www.instagram.com/raull752/" target="_blank">
