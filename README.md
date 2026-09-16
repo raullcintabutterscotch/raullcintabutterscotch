@@ -1,21 +1,22 @@
 <div align="center">
-  <!-- Ganti "URL_GAMBAR_RAW" di bawah dengan link raw dari gambar landscape kamu -->
-  <img src="https://i.pinimg.com/1200x/04/57/8b/04578b1b8e829ad53f957ef0842fc4de.jpg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
+<h3 align="center">Software Engineering Student | Web Developer</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ5b2l5dW1zb3p6bjJwdTVxMm02YWt0cGRvd2d2NzdnYXdvZDJhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="180" alt="Eat Sleep Code Repeat" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzAyMWMwb2x6eDNvdzIwdDd3dWc5cHo1NzNtYmdoZ2YwdHRpZnZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Q2hJ4FLN1UvS/giphy.gif" width="200" alt="Eat Sleep Code Repeat" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-*   🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
-*   💻 Saat ini sering ngoding menggunakan **React, Laravel, dan Python**.
-*   🏋️‍♂️ Di luar coding, saya punya rutinitas *gym split* dan menikmati game seperti Mobile Legends hingga judul AAA.
-*   🎵 Suka mendengarkan musik pop dan indie (yap, sambil ngoding!).
-*   📫 Hubungi saya via email: **raulparsa126@gmail.com**
+- 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
+- 💻 Saat ini sering ngoding menggunakan **React, Laravel, dan Python**.
+- 🏋️‍♂️ Di luar coding, saya punya rutinitas *gym split* dan menikmati game seperti Mobile Legends hingga judul AAA.
+- 🎵 Suka mendengarkan musik pop dan indie (yap, sambil ngoding!).
+- 📫 Hubungi saya via email: **raulparsa126@gmail.com**
 
 ---
 
@@ -29,14 +30,16 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raullcintabutterscotch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Raul's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raullcintabutterscotch&theme=tokyonight&hide_border=true&background=0D1117" alt="Raul's GitHub Streak" width="48%" />
 </p>
 
-<br>
+---
+
+### 👾 Contribution Graph
 
 <div align="center">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raullcintabutterscotch/raullcintabutterscotch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%" />
