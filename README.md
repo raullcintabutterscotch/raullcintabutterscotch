@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7289DA,E4405F&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&colorGradient=00B4D8,9D4EDD&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
+</div>
 
 <h3 align="center">Software Engineering Student | Web Developer</h3>
 
