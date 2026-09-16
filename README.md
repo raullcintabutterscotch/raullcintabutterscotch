@@ -13,13 +13,15 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-09-16-6549c1f3-0190-4cd0-85da-3f3ffe928355.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Raul's Photo" />
+  <!-- Ganti link di bawah ini dengan foto PNG kamu yang sudah di-crop bulat dan ber-background transparan -->
+  <img src="https://cdn.phototourl.com/free/2026-09-16-6549c1f3-0190-4cd0-85da-3f3ffe928355.jpg" width="150" alt="Raul's Photo" />
 </p>
 
 - 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
 - 💻 Saat ini sering ngoding menggunakan **React, Laravel, dan Python**.
 - 🏋️‍♂️ Di luar coding, saya punya rutinitas *gym split* dan menikmati game seperti Mobile Legends hingga judul AAA.
 - 🎵 Suka mendengarkan musik pop dan indie (yap, sambil ngoding!).
+- 🌐 **Portfolio**: Lihat karya dan proyek saya selengkapnya di **[Web Portfolio Saya](LINK_PORTFOLIO_KAMU_DISINI)**.
 - 📫 Hubungi saya via email: **raulparsa126@gmail.com**
 
 ---
@@ -30,10 +32,9 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="150" alt="Projects GIF" />
 </p>
 
+- 🏆 **Juara 1 LKS Web Technology**: Provinsi Kalimantan Utara, Top 23 Nasional.
 - ⚽ **Matchboard**: Mengembangkan aplikasi web *tactical football whiteboard*.
 - 🎵 **Spotify Clone**: Membangun *web music player* menggunakan React, Tailwind CSS, dan Spotify Web API (PKCE Auth).
-- 🏆 **LKS Web Technology**: Mendalami integrasi Bootstrap, PHP, Laravel, jQuery, dan MySQL.
-- 🤖 **Polri AI Sahabat Masyarakat**: Terlibat dalam perancangan skenario *script* dan konsep visual.
 
 ---
 
