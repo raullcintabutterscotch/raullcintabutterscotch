@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-09-16-dc0a9a46-3a33-403b-a89a-a632f1cb70d9.jpg" width="150" alt="About Me GIF" />
+  <img src="https://cdn.phototourl.com/free/2026-09-16-6549c1f3-0190-4cd0-85da-3f3ffe928355.jpg" width="150" alt="About Me GIF" />
 </p>
 
 - 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
@@ -39,9 +39,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlycjlyaGF6OWNxMXd5cmtkYzRucjg3YnFsYjhnOG10OW1yZWQ2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="150" alt="Tech Stack GIF" />
-</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
