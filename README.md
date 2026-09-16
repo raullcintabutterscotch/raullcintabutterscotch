@@ -13,14 +13,14 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <!-- Ganti link di bawah ini dengan foto PNG kamu yang sudah di-crop bulat dan ber-background transparan -->
   <img src="https://cdn.phototourl.com/free/2026-09-16-42cb4b39-97c5-4ec9-83f3-5a0803bf690c.png" width="150" alt="Raul's Photo" />
 </p>
 
-- 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
-- 💻 Saat ini saya menggunakan bahasa pemrograman **React, Laravel, dan Python**.
-- 🏋️‍♂️ Di luar coding, saya punya rutinitas *gym* dan menikmati game seperti Mobile Legends hingga judul AAA.
-- 🎵 Suka mendengarkan musik pop dan indie (yap, sambil ngoding!).
+- 👋 Halo! Saya **Muhammad Raul Zia Parsa**, siswa kelas 11 Rekayasa Perangkat Lunak (RPL) di SMKN 2 Tanjung Selor, Kalimantan Utara.
+- 💻 Saya sangat antusias dengan **Web Development** (*Frontend* & *Backend*) dan suka membangun pengalaman digital yang modern, responsif, dan fungsional.
+- 🚀 Perjalanan ngoding saya dimulai dari dasar web (HTML/CSS/JS), dan kini rutin mengeksplorasi ekosistem seperti **React, Next.js, Vue.js, Laravel**, hingga **Python**.
+- 🎮 Di luar *coding*, saya punya rutinitas *gym*, menikmati musik pop/indie, dan suka kompetisi *game* (Free Fire, Mobile Legends, hingga judul AAA) yang melatih *teamwork* serta fokus saya.
+- 🎯 Pengalaman menjuarai LKS Web Technology semakin memotivasi saya untuk terus mengasah *skill problem-solving* menuju impian menjadi *Software Engineer* profesional.
 - 🌐 **Portfolio**: Lihat karya dan proyek saya selengkapnya di **[Web Portfolio Saya](https://raullcintabutterscotch.vercel.app/)**.
 - 📫 Hubungi saya via email: **raulparsa126@gmail.com**
 
@@ -32,7 +32,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="150" alt="Projects GIF" />
 </p>
 
-- 🏆 **Juara 1 LKS Web Technology**: Provinsi Kalimantan Utara.
+- 🏆 **Juara 1 LKS Web Technology**: Provinsi Kalimantan Utara & Finalis Nasional Web Technology.
 - ⚽ **Matchboard**: Mengembangkan aplikasi web *tactical football whiteboard*.
 - 🎵 **Spotify Clone**: Membangun *web music player* menggunakan React, Tailwind CSS, dan Spotify Web API (PKCE Auth).
 
@@ -46,6 +46,7 @@
   </a>
 </p>
 
+---
 
 ### 👾 Contribution Graph
 
