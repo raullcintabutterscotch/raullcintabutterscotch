@@ -1,28 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Hi,%20I'm%20Raul!%20👋&fontSize=50&fontAlignY=35&fontAlign=20&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Web%20Developer&descSize=20&descAlignY=55&descAlign=20&bgImg=https://i.imgur.com/your-landscape-image.png" width="100%" />
-</p>
+<div align="center">
+  <!-- Ganti "URL_GAMBAR_RAW" di bawah dengan link raw dari gambar landscape kamu -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&fontAlign=50&desc=Software%20Engineering%20Student%20|%20Web%20Developer&descSize=20&descAlignY=55&descAlign=50&color=00000000&bgImg=URL_GAMBAR_RAW" width="100%" />
+</div>
 
 <p align="center">
-  <!-- GANTI URL DI BAWAH INI DENGAN URL FOTO ANDA -->
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/waving-hand.gif" width="30px" style="position: absolute; top: 100px; right: 200px; z-index: 10;">
-  <img src="https://i.imgur.com/your-photo.png" width="150" style="border-radius: 50%; border: 5px solid #2f363d; position: absolute; top: 50px; right: 150px; z-index: 5;" alt="Foto Raul" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ5b2l5dW1zb3p6bjJwdTVxMm02YWt0cGRvd2d2NzdnYXdvZDJhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Eat Sleep Code Repeat" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ5b2l5dW1zb3p6bjJwdTVxMm02YWt0cGRvd2d2NzdnYXdvZDJhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="180" alt="Eat Sleep Code Repeat" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
-- 💻 Saat ini sering ngoding menggunakan **React, Laravel, dan Python**.
-- 🏋️‍♂️ Di luar coding, saya punya rutinitas *gym split* dan menikmati game seperti Mobile Legends hingga judul AAA.
-- 🎵 Suka mendengarkan musik pop dan indie (yap, sambil ngoding!).
-- 📫 Hubungi saya via email: **raulparsa126@gmail.com**
+*   🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
+*   💻 Saat ini sering ngoding menggunakan **React, Laravel, dan Python**.
+*   🏋️‍♂️ Di luar coding, saya punya rutinitas *gym split* dan menikmati game seperti Mobile Legends hingga judul AAA.
+*   🎵 Suka mendengarkan musik pop dan indie (yap, sambil ngoding!).
+*   📫 Hubungi saya via email: **raulparsa126@gmail.com**
 
 ---
 
@@ -36,16 +29,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raullcintabutterscotch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Raul's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raullcintabutterscotch&theme=tokyonight&hide_border=true&background=0D1117" alt="Raul's GitHub Streak" width="48%" />
 </p>
 
----
-
-### 👾 Contribution Graph
+<br>
 
 <div align="center">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raullcintabutterscotch/raullcintabutterscotch/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%" />
