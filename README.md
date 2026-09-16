@@ -14,14 +14,14 @@
 
 <p align="center">
   <!-- Ganti link di bawah ini dengan foto PNG kamu yang sudah di-crop bulat dan ber-background transparan -->
-  <img src="https://cdn.phototourl.com/free/2026-09-16-6549c1f3-0190-4cd0-85da-3f3ffe928355.jpg" width="150" alt="Raul's Photo" />
+  <img src="https://cdn.phototourl.com/free/2026-09-16-42cb4b39-97c5-4ec9-83f3-5a0803bf690c.png" width="150" alt="Raul's Photo" />
 </p>
 
 - 🎓 Siswa Rekayasa Perangkat Lunak (RPL) dengan fokus pada **Web Development**.
-- 💻 Saat ini sering ngoding menggunakan **React, Laravel, dan Python**.
-- 🏋️‍♂️ Di luar coding, saya punya rutinitas *gym split* dan menikmati game seperti Mobile Legends hingga judul AAA.
+- 💻 Saat ini saya menggunakan bahasa pemrograman **React, Laravel, dan Python**.
+- 🏋️‍♂️ Di luar coding, saya punya rutinitas *gym* dan menikmati game seperti Mobile Legends hingga judul AAA.
 - 🎵 Suka mendengarkan musik pop dan indie (yap, sambil ngoding!).
-- 🌐 **Portfolio**: Lihat karya dan proyek saya selengkapnya di **[Web Portfolio Saya](LINK_PORTFOLIO_KAMU_DISINI)**.
+- 🌐 **Portfolio**: Lihat karya dan proyek saya selengkapnya di **[Web Portfolio Saya](https://raullcintabutterscotch.vercel.app/)**.
 - 📫 Hubungi saya via email: **raulparsa126@gmail.com**
 
 ---
@@ -32,7 +32,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="150" alt="Projects GIF" />
 </p>
 
-- 🏆 **Juara 1 LKS Web Technology**: Provinsi Kalimantan Utara, Top 23 Nasional.
+- 🏆 **Juara 1 LKS Web Technology**: Provinsi Kalimantan Utara.
 - ⚽ **Matchboard**: Mengembangkan aplikasi web *tactical football whiteboard*.
 - 🎵 **Spotify Clone**: Membangun *web music player* menggunakan React, Tailwind CSS, dan Spotify Web API (PKCE Auth).
 
@@ -46,16 +46,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raullcintabutterscotch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Raul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raullcintabutterscotch&theme=tokyonight&hide_border=true&background=0D1117" alt="Raul's GitHub Streak" width="48%" />
-</p>
-
----
 
 ### 👾 Contribution Graph
 
