@@ -1,11 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
 
 <h3 align="center">Software Engineering Student | Web Developer</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzAyMWMwb2x6eDNvdzIwdDd3dWc5cHo1NzNtYmdoZ2YwdHRpZnZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Q2hJ4FLN1UvS/giphy.gif" width="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzAyMWMwb2x6eDNvdzIwdDd3dWc5cHo1NzNtYmdoZ2YwdHRpZnZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Q2hJ4FLN1UvS/giphy.gif" width="175" />
 </p>
 
 ---
@@ -13,7 +11,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-09-16-42cb4b39-97c5-4ec9-83f3-5a0803bf690c.png" width="250" alt="Raul's Photo" />
+  <img src="https://cdn.phototourl.com/free/2026-09-16-42cb4b39-97c5-4ec9-83f3-5a0803bf690c.png" width="200" alt="Raul's Photo" />
 </p>
 
 - 👋 Hello! I'm **Muhammad Raul Zia Parsa**, a Grade 11 Software Engineering student at SMK Negeri 2 Tanjung Selor, North Kalimantan, Indonesia.
@@ -29,7 +27,7 @@
 ### 🚀 Recent Projects & Experience
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="250" alt="Projects GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1YnZtODlpdDlpbzBiNGsxbWRoeW9qZ2txc3B4a3hic2NmMHMwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="195" alt="Projects GIF" />
 </p>
 
 - 🏆 **1st Place LKS Web Technology**: North Kalimantan Province & National Web Technology Finalist.
