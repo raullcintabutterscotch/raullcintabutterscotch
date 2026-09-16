@@ -1,11 +1,17 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Raul!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
-</div>
-
-<h3 align="center">Software Engineering Student | Web Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Hi,%20I'm%20Raul!%20👋&fontSize=50&fontAlignY=35&fontAlign=20&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Web%20Developer&descSize=20&descAlignY=55&descAlign=20&bgImg=https://i.imgur.com/your-landscape-image.png" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFxcXBhOG9hbWw3M3J0c3N6eDdmNWppenJrZjhuemc5ODZoZ2g5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="200" alt="Eat Sleep Code Repeat" />
+  <!-- GANTI URL DI BAWAH INI DENGAN URL FOTO ANDA -->
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/waving-hand.gif" width="30px" style="position: absolute; top: 100px; right: 200px; z-index: 10;">
+  <img src="https://i.imgur.com/your-photo.png" width="150" style="border-radius: 50%; border: 5px solid #2f363d; position: absolute; top: 50px; right: 150px; z-index: 5;" alt="Foto Raul" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ5b2l5dW1zb3p6bjJwdTVxMm02YWt0cGRvd2d2NzdnYXdvZDJhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Eat Sleep Code Repeat" />
 </p>
 
 ---
