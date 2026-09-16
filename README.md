@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineering Student | Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ5b2l5dW1zb3p6bjJwdTVxMm02YWt0cGRvd2d2NzdnYXdvZDJhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Eat Sleep Code Repeat" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFxcXBhOG9hbWw3M3J0c3N6eDdmNWppenJrZjhuemc5ODZoZ2g5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.gif" width="200" alt="Eat Sleep Code Repeat" />
 </p>
 
 ---
