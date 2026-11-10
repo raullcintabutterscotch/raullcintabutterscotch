@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-09-16-42cb4b39-97c5-4ec9-83f3-5a0803bf690c.png" width="200" alt="Raul's Photo" />
+  <img src="https://user32897.na.imgto.link/public/20261110/e552529232254e055a751076-whatsapp-image-2026-09-16-at-12-50-25-2.avif" width="200" alt="Raul's Photo" />
 </p>
 
 - 👋 Hello! I'm **Muhammad Raul Zia Parsa**, a Grade 11 Software Engineering student at SMK Negeri 2 Tanjung Selor, North Kalimantan, Indonesia.
